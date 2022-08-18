@@ -1,0 +1,32 @@
+
+header {
+    /* height: 10rem; */
+    text-align: center;
+    background-color: orange;
+
+}
+h2 {
+    padding: 1.5rem;
+}
+nav {
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-end;
+
+}
+nav ul {
+    width: 100%;display: flex;
+    justify-content: space-around;
+
+}
+
+nav ul li a{
+    color:#fff;
+    text-decoration: none;
+}
+
+header nav ul li a:hover{
+    color: #000;
+
+}
